@@ -1,0 +1,10 @@
+POST http://localhost:3000/render HTTP/1.1
+content-type: application/json
+
+{
+  "url": "https://google.com"
+}
+
+###
+
+GET http://localhost:3000/canRun HTTP/1.1

@@ -1,0 +1,8 @@
+*
+
+!prisma
+!package.json
+!package-lock.json
+
+!packages
+!apps/proxy
